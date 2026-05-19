@@ -1,0 +1,2 @@
+# El .exe no va en la rama main; solo en GitHub Releases.
+*.exe
