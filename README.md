@@ -192,41 +192,6 @@ No necesitas **Node.js**, **Rust**, **npm** ni **CMD**.
 
 </details>
 
-### Para desarrolladores
-
-El código fuente vive en un **repositorio privado**. Este repo público es solo **distribución**.
-
-Si tienes acceso al repo de desarrollo:
-
-```bash
-git clone https://github.com/M4anuss/GhostActivity_Raiz.git
-cd GhostActivity_Raiz
-npm install
-npm run tauri dev
-```
-
-Build del instalador Windows:
-
-```bash
-npm run build:installer
-```
-
----
-
-## Modo rápido
-
-Pensado para quien quiere **resultado en minutos**, no un curso de RPC.
-
-| | Modo rápido | Modo avanzado |
-|:---|:---:|:---:|
-| Presets incluidos | ✅ | ✅ |
-| Probar conexión guiada | ✅ | ✅ |
-| Editar details / state | ✅ | ✅ |
-| Activar / desactivar en un clic | ✅ | ✅ |
-| Imágenes del Developer Portal | Opcional | ✅ |
-| Botones HTTPS | Opcional | ✅ |
-| Timestamps (transcurrido / restante) | Toggle | ✅ |
-
 **Flujo típico:**
 
 1. Crea una app en el [Discord Developer Portal](https://discord.com/developers/applications) *(una sola vez)* y copia el **Application ID**.
